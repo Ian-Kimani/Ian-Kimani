@@ -16,11 +16,11 @@
 
 ## Skills
 
-**Languages:** Python · JavaScript · SQL · Bash  
-**Backend:** Node.js · Express · Prisma · REST APIs · JWT · RBAC  
-**Frontend:** React · Vite · Tailwind CSS  
-**Databases:** PostgreSQL · SQLite · Multi-tenant architecture  
-**Other:** Docker · Azure · Offline-first systems · Hardware integration (PySerial)
+**Languages:**  Python · JavaScript · SQL · Bash  
+**Backend:**  Node.js · Express · Prisma · REST APIs · JWT · RBAC  
+**Frontend:**  React · Vite · Tailwind CSS  
+**Databases:**  PostgreSQL · SQLite · Multi-tenant architecture  
+**Other:**  Docker · Azure · Offline-first systems · Hardware integration (PySerial)
 
 ## What I focus on
 
