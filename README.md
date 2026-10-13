@@ -17,7 +17,6 @@
 ## Skills
 
 **Languages:**  Python · JavaScript · SQL · Bash  . C++ (Arduino)
-
 **Backend:**  Node.js · Express · Prisma · REST APIs · JWT · RBAC  
 **Frontend:**  React · Vite · Tailwind CSS  
 **Databases:**  PostgreSQL · SQLite · Multi-tenant architecture  
