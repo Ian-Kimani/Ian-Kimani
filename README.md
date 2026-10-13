@@ -3,7 +3,7 @@
 [Website](https://iankimani.me) · [LinkedIn](https://www.linkedin.com/in/ian-wabacha) · [X](https://x.com/Iannoh35243)
 
 - Software Engineer | Full Stack Developer
-- Building practical tools with TypeScript, Python & modern web tech
+- Building practical tools with JavaScript, TypeScript, Python & modern web tech
 - Based in Nairobi, Kenya
 
 ## Projects
