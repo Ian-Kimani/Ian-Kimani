@@ -14,6 +14,14 @@
 - **[SmartSeason Field Monitoring System](https://github.com/Ian-Kimani/SmartSeason-Field-Monitoring_System)** – Real-time agricultural field monitoring solution
 - **[Job-Hunter](https://github.com/Ian-Kimani/Job-Hunter)** – Job hunting tool built with Python
 
+## Skills
+
+**Languages:** Python · JavaScript · SQL · Bash  
+**Backend:** Node.js · Express · Prisma · REST APIs · JWT · RBAC  
+**Frontend:** React · Vite · Tailwind CSS  
+**Databases:** PostgreSQL · SQLite · Multi-tenant architecture  
+**Other:** Docker · Azure · Offline-first systems · Hardware integration (PySerial)
+
 ## What I focus on
 
 - Offline-first & multi-tenant architectures
@@ -25,7 +33,14 @@
 - Improving developer tools and full-stack applications
 - Exploring AI-assisted development workflows
 
-More projects and case studies on my [website](https://iankimani.me).
+## GitHub 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ian-Kimani&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ian-Kimani&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
+
+More projects and full case studies on my [website](https://iankimani.me).
 
 <!--
 **Ian-Kimani/Ian-Kimani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
