@@ -16,11 +16,11 @@
 
 ## Skills
 
-**Languages:**  Python · JavaScript · SQL · Bash  
+**Languages:**  Python · JavaScript · SQL · Bash  . C++ (Arduino)
 **Backend:**  Node.js · Express · Prisma · REST APIs · JWT · RBAC  
 **Frontend:**  React · Vite · Tailwind CSS  
 **Databases:**  PostgreSQL · SQLite · Multi-tenant architecture  
-**Other:**  Docker · Azure · Offline-first systems · Hardware integration (PySerial)
+**Cloud & DevOps:**  Docker · Azure · Git/GitHub . CI/CD concepts
 
 ## What I focus on
 
@@ -33,12 +33,6 @@
 - Improving developer tools and full-stack applications
 - Exploring AI-assisted development workflows
 
-## GitHub 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ian-Kimani&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ian-Kimani&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
 
 More projects and full case studies on my [website](https://iankimani.me).
 
