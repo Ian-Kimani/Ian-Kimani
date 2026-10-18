@@ -25,14 +25,11 @@
 
 ## What I focus on
 
-- Offline-first & multi-tenant architectures
-- Hardware integration (serial scales, thermal printers)
+- Building reliable full-stack systems
+- Clean architecture and good data modelling
 - Clean backend APIs with strong data isolation
-- Systems that keep working when the internet doesn’t
+- Exploring how AI can improve the tools I build
 
-## What I'm Working On
-- Improving developer tools and full-stack applications
-- Exploring AI-assisted development workflows
 
 
 More projects and full case studies on my [website](https://iankimani.me).
