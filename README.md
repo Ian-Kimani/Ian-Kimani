@@ -11,8 +11,8 @@
 - **[KahawaManager Edge](https://www.iankimani.me/case-study/kahawamanager-edge)** — Offline-first desktop IoT system for coffee factories. Connects directly to digital weighing scales + thermal printers via PySerial, records deliveries locally (even during power/internet outages), prints receipts, and sends SMS confirmations to farmers.
 - **[KahawaManager Cloud](https://www.iankimani.me/case-study/kahawamanager-cloud)** — Multi-tenant cloud dashboard that syncs with offline Edge devices using a custom Delta Sync protocol. Handles analytics, factory expenses, farmer advances, bulk SMS, and end-of-season payments.
 - **[Miliqo](https://iankimani.me/case-study/miliqo)** — Multi-tenant property management SaaS. Automated rent billing, arrears calculation, utility sub-metering, and print-ready invoices.
-- **[SmartSeason Field Monitoring System](https://github.com/Ian-Kimani/SmartSeason-Field-Monitoring_System)** – Real-time agricultural field monitoring solution
-- **[Job-Hunter](https://github.com/Ian-Kimani/Job-Hunter)** – Job hunting tool built with Python
+- **[Job-Hunter](https://github.com/Ian-Kimani/Job-Hunter)** – Job hunting tool built with Python.
+- **[TutaPass](https://github.com/Ian-Kimani/Tuta-Pass)** – An AI study Coach that helps learners understand why the answer is correct, helps them plan their studies, shows them their weak areas, and explains the answer in a simple context that a learner can understand. 
 
 ## Skills
 
