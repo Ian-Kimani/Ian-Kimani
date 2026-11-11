@@ -12,7 +12,7 @@
 - **[KahawaManager Cloud](https://www.iankimani.me/case-study/kahawamanager-cloud)** — Multi-tenant cloud dashboard that syncs with offline Edge devices using a custom Delta Sync protocol. Handles analytics, factory expenses, farmer advances, bulk SMS, and end-of-season payments.
 - **[Miliqo](https://iankimani.me/case-study/miliqo)** — Multi-tenant property management SaaS. Automated rent billing, arrears calculation, utility sub-metering, and print-ready invoices.
 - **[Job-Hunter](https://github.com/Ian-Kimani/Job-Hunter)** – Job hunting tool built with Python.
-- **[TutaPass](https://github.com/Ian-Kimani/Tuta-Pass)** – An AI study Coach that helps learners understand why the answer is correct, helps them plan their studies, shows them their weak areas, and explains the answer in a simple context that a learner can understand. 
+- **[TutaPass](https://github.com/Ian-Kimani/TutaPass)** – An AI study Coach that helps learners understand why the answer is correct, helps them plan their studies, shows them their weak areas, and explains the answer in a simple context that a learner can understand. 
 
 ## Skills
 
